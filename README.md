@@ -5,4 +5,4 @@ simple vibrate &amp; vibrate with pattern
 <br>
 you must add this line in root android => app => src => main => res in file AndroidManifest.xml :
 <Br>
-  "<uses-permission android:name="android.permission.VIBRATE" />"
+<uses-permission android:name="android.permission.VIBRATE" />
