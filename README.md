@@ -1,5 +1,5 @@
 # vibrate
-simple vibrate &amp; vibrate with pattern
+simple vibrate &amp; vibrate with pattern with press button
 <br><Br>
 ![vibrate](https://user-images.githubusercontent.com/116552870/229871061-5d7489b9-47bf-4141-93a6-f2aa726c4cea.jpg)
 <br><Br>
